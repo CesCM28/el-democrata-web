@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eldemocrataweb-dev-225524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::772388010449:role/amplify-eldemocrataweb-dev-225524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::772388010449:role/amplify-eldemocrataweb-dev-225524-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eldemocrataweb-dev-225524-deployment",
+      "UnauthRoleName": "amplify-eldemocrataweb-dev-225524-unauthRole",
+      "StackName": "amplify-eldemocrataweb-dev-225524",
+      "StackId": "arn:aws:cloudformation:us-east-1:772388010449:stack/amplify-eldemocrataweb-dev-225524/07063940-80bf-11ec-ba8f-0aad808d73c3",
+      "AmplifyAppId": "d7896khnpujk9"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d7896khnpujk9",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
